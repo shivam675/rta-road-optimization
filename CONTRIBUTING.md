@@ -62,7 +62,7 @@ Thank you for your interest in contributing to this project!
 - Follow PEP 8 guidelines
 - Use type hints where appropriate
 - Write docstrings for functions and classes
-- Keep line length to 100 characters
+- Keep line length to maximum configured in `.flake8` and `pyproject.toml` (currently 100 characters)
 - Use meaningful variable and function names
 
 ## Testing
